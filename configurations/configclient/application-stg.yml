@@ -1,0 +1,12 @@
+app:
+  region: stg-tokyo
+
+db:
+  url: http://localhost:27017
+  username: stg-username-db
+  password: stg-pass-db
+
+mq:
+  url: http://localhost:27017
+  username: stg-username-mq
+  password: stg-pass-mq

@@ -1,0 +1,12 @@
+app:
+  region: dev-tokyo
+
+db:
+  url: http://localhost:27017
+  username: dev-username-db
+  password: dev-pass-db
+
+mq:
+  url: http://localhost:27017
+  username: dev-username-mq
+  password: dev-pass-mq
